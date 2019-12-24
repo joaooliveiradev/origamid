@@ -7,13 +7,10 @@
 - [ ] CSS com SASS
 - [ ] CSS Flexbox
 - [ ] CSS Grid Layout
-- [ ] JavaScript e jQuery
-- [ ] JavaScript ES6
 - [ ] Tipografia Avançada
 - [ ] UI Design Avançado
 - [ ] UX Design Heurísticas
 - [ ] Vue.js Completo
 - [ ] Web Design Completo
-- [ ] Wordpress como CMS
 
 [Site da Origamid](https://www.origamid.com/)
