@@ -1,0 +1,41 @@
+O que é?
+
+- É o processo de organizar e categorizar a informação de modo que o usuário encontre da forma mais fácil
+possível.
+
+Dicas
+
+-Aproveite as conveções.
+Em 90% dos sites a página contato contém o endereço,formulário,telefone e e-mail. Porque mudar?
+
+-Crie níveis de detalhamento
+
+Na home(página principal), pode ser composta apenas de introduções ao conteúdo interno do site.Páginas
+internas podem ser mais detalhadas
+
+-Crie mais de um caminho
+
+O telefone da empresa não precisa estar apenas na página de contato, ele pode estar em outras páginas
+e partes do site também. Assim como o menu não precisa ser a única forma de navegação.
+
+-Concatene informações
+
+Você não precisa ter uma página para cada informação da empresa.
+Ex: Os parceiros podem ser mostrados na página Sobre.
+
+-Conheça o usuário
+
+Só é possível como o usuário pensa se você perguntar para ele.
+O óbvio para você pode não ser o óbvio para ele.
+
+
+Card Sorting
+Técnica que são informadas categorias em papéis e você da para no minimo 6 pessoas informarem através
+de papéis aonde vão essas informações nessas categorias, por exemplo: categorias de uma loja, você da
+papeiszinhos ou cards com produtos da loja, assim o usuario vai ter que colocar esses cards nessas
+categorias corretamente, aonde vai a sunga? na categoria acessório ou em intimo? assim você verifica
+se as informações são muito confusas para muitos clientes e consegue organizar certinho pois muitos
+usuarios vão fazer esse teste, por isso que precisa de no minimo 6 porque ja é um numero bom para realizar
+
+Bom disos q vc não vai organizar as informações baseadas no achismo e sim baseado no que o seu usuario
+pensa.

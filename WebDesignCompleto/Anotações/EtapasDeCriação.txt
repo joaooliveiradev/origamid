@@ -1,0 +1,18 @@
+Etapas para a construção de um site.
+1)Briefing-> Objetivos do Site/ Necessidades dos Usuários.
+2)Arquitetura da informação-> Defina as principais áreas do site e o seu conteúdo.
+3)Wireframe->Design da interação.
+4)Design->Define cores,tipografias,imagens e estilo.
+5)Código->Códifica o layout e implementa o cms
+
+Briefing
+É o momento de perguntas e respostas, aqui entendemos os objetivos do site e as necessidades do cliente.
+
+Alinhe as expectativas.
+
+Se o cliente tiver muita expectativa do seu projeto e a percepção depois não condiz com a realidade
+ele se sentirá frustado, então gere expectativa a ponto dele aceitar o projeto contigo mas não algo
+muito incrível, pois se depois a realidade for maior que a expectativa o cliente se sentirá satisfeito.
+
+
+

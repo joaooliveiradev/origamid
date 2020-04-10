@@ -1,0 +1,30 @@
+Os quatro princípios básicos.
+
+
+- Contraste
+
+- Repetição
+
+- Alinhamento 
+
+- Proximidade 
+
+
+====Contraste===
+
+"O objetivo do contraste é evitar elementos meramente similares em uma página. O contraste costuma ser
+a mais importante atração visual em uma página".
+
+====Repetição===
+
+"Repita elementos visuais do design e espalhe-os pelo material. Isso ajuda a criar uma organização e
+fortalece a unidade".
+
+===Alinhamento===
+
+"Cada elemento deve ter uma ligação visual com outro elemento da página. Isso cria uma aparência limpa,
+sofisticada e suave".
+
+===Proximidade===
+"Itens relacionados entre si devem ser agrupados, quando varios itens estão próximos, tornam-se uma
+undiade visual".

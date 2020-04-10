@@ -1,0 +1,13 @@
+Definição: Qualquer interação entre o usuário e uma marca é uma experiência de uso. O trabalho do designer
+é garantir que as necessidades do usuários sejam atendidas e, se possivel, com prazer durante o processo.
+
+UxDesign na Web
+
+#Usabilidade
+Garantir que o site seja de fácil uso.
+
+#Prazer
+Superar expectativas/surpreender o usuário.
+
+Links Úteis:
+https://blog.novatics.com.br/5-dicas-ux-e-ui-design-d787ef46b6b8

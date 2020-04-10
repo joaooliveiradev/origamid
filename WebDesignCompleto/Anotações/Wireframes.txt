@@ -1,0 +1,9 @@
+Tipografias para serem utilizadas em wireframe:
+
+14/20 ou 18/25 -> Corpo de Texto
+
+23/30 -> Subtítulo ou título
+
+36/40 -> Título
+
+48/60 -> Título

@@ -1,0 +1,17 @@
+==Fórmula==
+UI Desgin vai definir como o usuário interage com a interface que por sua vez vai definir a experiencia
+de uso(UX-Design).
+==elementos comuns na interface ==
+Botões de ação,botões de texto/títulos, formulários/caixas de texto(input), imagens/pictogramas, separa
+dores, animações
+
+Repetição é o segredo!!
+-Tipografia,cores,formatos,estilo,medidas.
+
+Tipografia, definiu um tamanho ou uma cor? mantenha ela por todo site, mesmo que tenha um botão que mude
+de cor, faça isso em outros botões.
+
+Decidiu que as cores do site serão preto e cinza? mantenha essa cor por todo o site.
+
+Medidas, se um espaçamento de uma seção e outra for de 60px, mantenha em outra seção, isso irá gerar
+consistencia.

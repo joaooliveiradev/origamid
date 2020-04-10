@@ -1,0 +1,24 @@
+O que é Design?
+
+"Design é acrescentar valor e significado, simplificar, esclarecer, modificar, dignificar, dramatizar,
+persuadir, e talvez até mesmo entreter"
+
+~~ Paul Rand
+
+Na aula é dado exemplos de como alguns sites usam esse significado de design, no acrescentar valor e significado
+vemos como o Desenvolvedor resolveu acrescentar valor aos produtos vendidos, mostrando uma imagem bem
+grande do mesmo. O porque disso é que o site é de Nicho, então eles dão todo valor ao produto vendido,
+também há exemplos de dramatizar, que é um site sobre a guerra do Afeganistão e eles usam a foto de uma
+criança chorando com um texto de lado.
+
+Um dos exemplos que ele também aborda é que no site mesmo que eles utilizam valor e significado é a comparação
+com o da Americanas ja que no site que usam valor e significado eles deixam o foco bem no produto que é
+vendido e no da Americanas são muitos produtos e nenhum tem destaque.
+
+Simplificar - exemplo site do dropbox.
+
+No site do dropbox é mostrado que é muito simples, eles não explicam nada sobre o site em si porque 
+quando você entra no dropbox você ja tem mais ou menos a ideia pra que ele serve ja que talvez tenha
+sido recomendado por algum amigo, então na parte principal é bem destacado o registre-se e explicam pouco
+sobre para que serve o dropbox em si. 
+(Dropbox mostrado pelo curso, o de hoje em dia eles explicam para que serve).

@@ -1,0 +1,86 @@
+Um dos mais importantes tópicos do Design, mais de 80% de todos os sites são feitos por textos.
+
+# Sem Serifas:
+
+São neutras, funcionam bem em corpo de texto, usadas frequentemente na web para compor o texto.
+
+Ex: Helvetica, Arial e Avenir.
+
+# Serifadas:
+
+Criada para imitar um pouco o Lápis, por causa que sempre que escrevemos a Lápis uma ponta da letra
+fica pra fora, mais ou menos uma imitação do escrito real por assim dizer.
+
+São clássicas, funcionam bem em corpo de texto, usadas frequentemente em livros para compor o texto.
+
+Ex: Garamond, Georgia e Baskerville
+
+# Serifas Grossas
+
+Não ficam tão boas em corpo de textos por serem muito "pesadas", funcionam bem em titulos.
+Ex: Rockwell, Bitter e Kreon
+
+# Scripts
+
+Fontes com ligaturas, parecem que foram escritas por um píncel, funcionam bem em títulos.
+
+# Góticas / BlackLetter
+
+Estilizadas, utilizadas como referencia ao periodo medieval, boas para compor títulos.
+Ex: New Rocker, Lucida BlackLetter e Cabazon
+
+# Display:
+Sem padrão, são criadas de acordo com o projeto, cada uma possui personalidade própria.
+
+Ex: Phosphate, Curlz MT e Hobo
+
+# Variáveis Tipográficas
+
+## Tamanhos Padrões para Corpo de Texto:
+14px, 16px ou 18px;
+
+## Altura da Linha, Altura de Texto
+1,5 * Tamanho do Texto
+Ex: 1,5 * 14px = 21px
+Obs: Essa regra pode mudar do quão grande é o tamanho do texto.
+
+Largura do Texto
+Maximo de 10/14 palavras por linha.
+
+Indicações para corpo de texto utilizando tipografias como Helvetica e Arial,o tamanho 14px de uma
+Helvetica pode ser diferente de uma Georgia então precisa-se identificar o tamanho certinho e ai sim
+utilizar essas varíaveis tipograficas
+
+===================== Escalas tipograficas ===================
+
+Definir uma escala de tamanho de texto, definir um tamanho pra o botão, para o corpo do texto, para o
+titulo e utilizar em todos elementos iguais, se definir que o texto do botão é 18px, todos os botão
+da página será com 18px's
+
+Uma escala harmônica seria
+11px , 14px, 18px, 24px, 36px e 48px
+
+Utilizar no máximo 6 tamanhos de escala.
+
+Nunca utilize tamanhos próximos como 14 e 15px , utilizar tamanhos diferente servem exatamente para
+diferenciar uma informação das outra.
+===================== Parendo Tipos ============
+
+## Contraste é Rei, não utilize tipografias parecidas.
+
+
+## Use no máximo 2 tipografias, só quebre essa regra quando você dominar ela.
+
+
+## Escolhas tipos complementares, tipografias serifadas para o titulo e sem serifa para o corpo
+de texto podem ser uma boa combinação.
+
+====================== Alinhamento =============================
+
+- À esquerda -> Padrão da Web, você vai usar 80% das vezes.
+
+- Centralizado -> Bom para títulos, subtítulos ou pequenos blocos de texto, o layout deve acompnhar
+este alinhamento.
+ 
+- Justificado -> Poucos utilizados na web, pois ainda não existem meios fáceis que permitam a hifeniza
+ção do texto. Quase sempre gera caminhos de rato na web.

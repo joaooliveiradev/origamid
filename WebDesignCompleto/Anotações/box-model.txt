@@ -1,0 +1,27 @@
+================================== Overflow =========================================
+
+- Overflow especifica o que acontece quando o conteúdo for maior que a caixa dele.
+Valores: visible, hidden, auto, scroll
+
+Dica: usar overflow: auto; na caixa que envolve elementos flutuantes.
+
+================================== Position =========================================
+
+- Position: define o posicionamento do elemento. Valores: static, absolute, relative, fixed
+
+Top, Left, Bottom e Right: Posicionam elementos com position: absolute, relative ou fixed.
+
+Quando se usa top,left,bottom e right geralmente se considera o documento para aplicar o posicionamento
+do elemento, para se aplicar as mudanças em relação a uma div especifica, a div em questão precisa
+ter o position relative, e a div que irá mudar de posição precisa estar com position absolute.
+
+================================ Display =================================================
+Elementos inline não quebram linhas, elementos como div,h1,article possuem display block e quebram linhas.
+
+É possivel declarar width e height para elementos de bloco, mas não para elementos inline.
+Elementos com inline-block que por padrão não quebra linha mas permite declarar width e height.
+
+
+
+
+

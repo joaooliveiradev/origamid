@@ -1,0 +1,30 @@
+# Circulo Cromático
+
+Circulo cromático é baseado em como as pessoas entende as cores e como as pessoas a relacionam,
+dentre os design o circulo cromático foi oq mais vingou e é o que é mais usado pelos designers.
+
+3 Cores Primarias - Amarelo, Vermelho e Azul, as cores se relacionam formando secundárias e terciarias
+    Ex : Amarelo x Azul = Verde 
+
+O circulo irá se relacionar para formar o esquema de cores.
+
+# Cores Análogas, Complementares, Quentes e Frias.
+
+## Cores Análogas 
+
+Cores pertos uma das outras, é um esquema de cor básico, geralmente não tem contraste mas elas trabalham
+bem uma com a outra.
+
+## Complementares
+
+Cores que tem contraste,"brigam" uma com a outra quando estão juntas por exemplo,chamam 
+a atenção juntas.
+
+# Cores Frias 
+
+São cores calmas.
+
+# Cores Quentes
+
+Cores mais chamativas.
+

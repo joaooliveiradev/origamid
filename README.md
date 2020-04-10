@@ -13,7 +13,7 @@
 - [ ] UI Design Avançado
 - [ ] UX Design Heurísticas
 - [ ] Vue.js Completo
-- [ ] Web Design Completo
+- [x] Web Design Completo
 - [ ] Wordpress como CMS
 
 [Site da Origamid](https://www.origamid.com/)
